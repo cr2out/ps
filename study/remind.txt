@@ -71,3 +71,6 @@ https://codeforces.com/contest/2176/problem/D
 구성 조건을 흩어서 체크하지 말고, 마지막에 정의를 통째로 재검증할 수 있으면 그렇게 해라.
 prefix max / prefix sum 복원 문제는 원래 조건을 b에 대한 등식+부등식 집합으로 동치 변환하고, 고정된 차분이 변수들을 체인으로 묶어 자유도를 세는 것부터 시작한다.
 https://codeforces.com/contest/2231/problem/D
+-------------------------------------------------------
+체크되는 인덱스는 별로 없는데 인덱스의 범위가 넓으면 map을 사용해보자
+https://codeforces.com/contest/2154/problem/C1
