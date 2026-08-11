@@ -86,4 +86,6 @@ https://codeforces.com/contest/2120/problem/C
 구간 연산을 해도 접두, 접미사 배열 의심해보고 연산이 양쪽만 건드려도 접두, 접미사 배열 의심 해보자.
 https://codeforces.com/contest/2064/problem/C
 https://codeforces.com/contest/2175/problem/B
-
+-------------------------------------------------------
+MEX랑 원소 >= 1 이고 원소 순서대로 합하는 문제있으면 원소는 무조건 1.
+https://codeforces.com/contest/2059/problem/C
