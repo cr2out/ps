@@ -97,3 +97,10 @@ https://codeforces.com/contest/2059/problem/C
 짝지어서 없애는 문제 있을때는 최댓값 > 전체 - 최댓값 라면 무조건 남는다.
 예 ) 2 | 2 | 5 -> 5 > 4
 https://codeforces.com/contest/2217/problem/D
+-------------------------------------------------------
+[전체합 이중계산 (double counting) — 제약 1개 절약]
+마지막 행/열 제약이 자동 충족되는 메커니즘:
+  T를 행 기준, 열 기준으로 두 번 세면
+  (앞의 n-1개 행 합) + r_n = (앞의 m-1개 열 합) + c_m
+  앞부분이 모두 0이면 r_n = c_m 이 무조건 성립.
+https://codeforces.com/contest/2055/problem/C
