@@ -106,3 +106,4 @@ https://codeforces.com/contest/2217/problem/D
 https://codeforces.com/contest/2055/problem/C
 -------------------------------------------------------
 수열을 연속되게 m + 1개의 부분수열로 묶고 한개의 부분수열말고 다 서로 인접해있을 때 왼쪽에서 k개 묶으면 오른쪽에서 m - k개 묶으면 됨.
+https://codeforces.com/contest/2028/problem/C
