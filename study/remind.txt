@@ -110,3 +110,6 @@ https://codeforces.com/contest/2028/problem/C
 -------------------------------------------------------
 겉보기에 O(n^2) DP 같은 애 상태를 좀 다양하게 표현하면 까고보면 O(n) DP 일 수 있다.
 https://codeforces.com/contest/2022/problem/B
+-------------------------------------------------------
+최대값/최소값 문제 하한/상한을 찾고 충분성 검증하면 쉽게 풀릴 수 있음.
+https://codeforces.com/contest/2022/problem/B
