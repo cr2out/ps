@@ -120,3 +120,6 @@ https://codeforces.com/contest/2191/problem/D2
 비둘기집 원리 이용할 때, a개의 위치에 모두 중복되는 숫자가 없기까지의 경우의 수는 나머지 위치에 원소 들어가는 순서들은 상관이 없다.
 컴비네이션 계산할 때 이미 i가 너무 크면 %MOD 하고 곱하자.
 https://codeforces.com/contest/2120/problem/D
+-------------------------------------------------------
+한 원소에 대해서 그 원소에 대해 이웃한 원소를 이용한 연산을 할 때 차분·프리픽스합·프리픽스 XOR·교대합 등 좌표계 변환을 고려해보자.
+https://codeforces.com/contest/2252/problem/D
