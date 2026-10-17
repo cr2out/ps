@@ -123,3 +123,6 @@ https://codeforces.com/contest/2120/problem/D
 -------------------------------------------------------
 한 원소에 대해서 그 원소에 대해 이웃한 원소를 이용한 연산을 할 때 차분·프리픽스합·프리픽스 XOR·교대합 등 좌표계 변환을 고려해보자.
 https://codeforces.com/contest/2252/problem/D
+-------------------------------------------------------
+뭔가 Disjoint Set 같은 문제 그리디하게 인접한 원소의 Answer 를 알면 Disjoint Set 없이 풀 수 있는 경우가 있다.
+https://codeforces.com/contest/2031/problem/D
